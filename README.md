@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RyyanMastan
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning to be a better Data Scientist and an insightful Analyst
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mastanryyan@gmail.com
 
 <!---
